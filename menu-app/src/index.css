@@ -1,0 +1,147 @@
+.color-body {
+  /* background-color: #F8F8F8; */
+  background-color: white;
+  height: 100vh;
+}
+
+.font {
+  font-family: 'Hanken Grotesk', sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 64px;
+}
+
+.title {
+  color: #555555;
+  font-family: 'Hanken Grotesk', sans-serif;
+  /* font-family: 'Inter', sans-serif; */
+  font-size: 30px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 64px;
+}
+
+.underline {
+  height: 1px;
+  width: 200px;
+  border-radius: 10px;
+  border: 2px solid #555555;
+  /* border: 2px solid #fa8231; */
+}
+
+/* .btn {
+  font-family: 'Hanken Grotesk', sans-serif;
+  color: #B45B35;
+  border-radius: 8px;
+  border-color: wheat;
+  background-color: white;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 24px;
+  font-weight: bold;
+}
+
+.btn:hover {
+  color: white;
+  background-color: #fa8231;
+  border-color: #F8F8F8;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+} */
+
+.img-item {
+  height: 180px;
+  width: 230px;
+  border-radius: 5px;
+  /* margin-top: 3px;
+  margin-bottom: 3px;
+  margin-left: 2px; */
+  margin: 0%;
+}
+
+.card-body{
+  width: 600%;
+}
+
+.item-description {
+  color: #8C8C8C;
+  font-family: 'Hanken Grotesk', sans-serif;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+.item-title {
+  color: #555555;
+  font-family: 'Hanken Grotesk', sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+.card-color {
+  background-color: #F8F8F8;
+}
+
+.item-price {
+  color: #B45B35;
+  font-family: 'Hanken Grotesk', sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+.btn-search {
+  color: #B45B35;
+  border-radius: 3px solid #fa8231;
+  border-radius: 8px;
+  background-color: white;
+}
+
+.btn-search:hover {
+  color: white;
+  border-radius: 3px solid white;
+  background-color: #fa8231;
+  border-radius: 8px;
+}
+
+.brand-color {
+  color: #F8F8F8;
+  font-family: 'Hanken Grotesk', sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+
+}
+
+/* .btn-cat {
+  padding: 10px;
+  font-family: 'Hanken Grotesk', sans-serif;
+  color: #B45B35;
+  border-radius: 8px;
+  border-color: wheat;
+  background-color: white;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 24px;
+  font-weight: bold;
+  width: 100px;
+}
+
+.btn-cat:hover {
+  color: white;
+  background-color: #fa8231;
+  border-color: #F8F8F8;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+} */
+
+.Btn-Cust{
+  padding: 10px;
+  font-family: 'Hanken Grotesk', sans-serif;
+}
+
+.Btn-Cust:hover{
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
