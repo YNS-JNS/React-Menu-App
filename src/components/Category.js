@@ -26,7 +26,7 @@ const Category = ({ filterByCat, allCategory }) => {
 
                                     )
                                 })
-                            ) : <h3 className="text-center"> there is no Category </h3>
+                            ) : <h3 className="text-center"> There is no Category </h3>
                     }
                 </Roll>
             </Col>
